@@ -1,5 +1,5 @@
 /* Fonts */
-@font-face 
+@font-face
 {
     font-family:'koodak';
     src:url('../fonts/KoodakBold.eot?#')format('eot'),
@@ -9,7 +9,7 @@
     font-style: normal;
 }
 
-@font-face 
+@font-face
 {
     font-family:'nazanin';
     src:url('../fonts/Nazanin.eot?#')format('eot'),
@@ -19,7 +19,7 @@
     font-style: normal;
 }
 
-@font-face 
+@font-face
 {
     font-family:'yekan';
     src:url('../fonts/Yekan.eot?#')format('eot'),
@@ -30,7 +30,7 @@
 }
 /* End Fonts */
 
-* 
+*
 {
     margin: 0;
     padding: 0;
@@ -38,17 +38,17 @@
     font-family: 'yekan';
 }
 
-.main-box 
+.main-box
 {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-image: url(../images/root/back3.jpg);
+    /* background-image: url(); */
     background-position: center;
     background-size: cover;
 }
 
-.form-box 
+.form-box
 {
     width: 380px;
     height: 480px;
@@ -59,7 +59,7 @@
     overflow: hidden;
 }
 
-.button-box 
+.button-box
 {
     width: 220px;
     margin: 2.2rem auto;
@@ -69,7 +69,7 @@
     box-shadow: 0 0 1.25rem 0.5rem #ff61251f;
 }
 
-.toggle-btn 
+.toggle-btn
 {
     position: relative;
     padding: 0.6rem 1.8rem;
@@ -79,7 +79,7 @@
     cursor: pointer;
 }
 
-#account-btn 
+#account-btn
 {
     position: absolute;
     top: 0;
@@ -91,7 +91,7 @@
     transition: 0.6s;
 }
 
-.input-group 
+.input-group
 {
     position: absolute;
     top: 170px;
@@ -99,7 +99,7 @@
     transition: 0.6s;
 }
 
-.input-field 
+.input-field
 {
     width: 100%;
     margin: 0.3rem 0;
@@ -112,12 +112,12 @@
     background-color: transparent;
 }
 
-.check-box 
+.check-box
 {
     margin: 1.8rem 0.5rem;
 }
 
-.submit-btn 
+.submit-btn
 {
     width: 85%;
     margin: 0 auto;
@@ -130,7 +130,7 @@
     outline: none;
 }
 
-.input-group span 
+.input-group span
 {
     color: #999;
     font-size: 0.8rem;
@@ -138,12 +138,12 @@
     bottom: 67px;
 }
 
-#login 
+#login
 {
     left: 50px;
 }
 
-#register 
+#register
 {
     left: 450px;
 }
