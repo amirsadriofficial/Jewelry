@@ -1,3 +1,5 @@
+$('body').scrollspy({ target:'#main-nav'});
+
 $(document).ready(function() 
 {
     $("a[href^='#']").on('click', function(event) 
