@@ -1,2 +1,2 @@
-# See Website
-See [Website](https://amirsadriofficial.github.io/Jewelry/).
+# Visit Website
+Click [Website](https://amirsadriofficial.github.io/Jewelry/).
