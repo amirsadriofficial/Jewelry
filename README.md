@@ -1,3 +1,3 @@
 # Jewelry
 ### Visit Website
-Click on the [Website](https://amirsadriofficial.github.io/Jewelry/) to visit.
+Click On The [Website](https://amirsadriofficial.github.io/Jewelry/) To Visit.
